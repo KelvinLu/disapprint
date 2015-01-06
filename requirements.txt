@@ -1,0 +1,5 @@
+sqlalchemy
+numpy
+scipy
+matplotlib
+pydub
